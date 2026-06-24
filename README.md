@@ -1,4 +1,3 @@
-```markdown
 # bioinformatics-paper-writing
 
 A Codex skill for writing and revising bioinformatics manuscripts at a high review standard.
@@ -224,7 +223,3 @@ It will intentionally **avoid** inventing:
 ## 📄 License
 
 [MIT]
-
-```
-
-```
