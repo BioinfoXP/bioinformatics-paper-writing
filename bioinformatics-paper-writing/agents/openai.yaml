@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bioinformatics Paper Writing"
+  short_description: "Bilingual Nature-style bioinformatics writing and literature-learning from figures, code, and multimodal evidence"
+  default_prompt: "Use $bioinformatics-paper-writing to write submission-ready bilingual Nature-style manuscript text from my figures, learn reusable writing patterns from my paper, or write Methods from my analysis code."
