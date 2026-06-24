@@ -219,7 +219,3 @@ It will intentionally **avoid** inventing:
 * The skill supports persistent local learning through the `knowledge/` directory.
 * It does not automatically rewrite its own `SKILL.md`.
 * Conflicts between new literature and existing learned patterns should be surfaced rather than silently overwritten.
-
-## 📄 License
-
-[MIT]
